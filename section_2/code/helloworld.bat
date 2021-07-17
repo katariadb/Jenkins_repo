@@ -1,3 +1,3 @@
 @echo off
-echo "Hello World Modified from scratch!!"
+echo "Hello World automati build trigger!!"
 pause
