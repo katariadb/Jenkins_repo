@@ -1,3 +1,3 @@
 @echo off
-echo "Hello World automati build trigger keep on tryingkjk    fdgf sfgofdgd  !!"
+echo "Hello World automati build trigger keep on txxryingkjk    fdgf sfgofdgd  !!"
 pause
